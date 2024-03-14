@@ -68,7 +68,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:  POPURI SRAVANI
  RegisterNumber: 212223240117
- ![image](https://github.com/sravanipopuri2006/study-of-basic-gates/assets/139778301/3ae04abd-d072-40e0-bc6e-cda3380be3f8)
+![image](https://github.com/sravanipopuri2006/study-of-basic-gates/assets/139778301/8a2a8df3-f0b0-46a1-b1d9-a37ba2dfd895)
+
 
  
 **Logic symbol & Truthtable**
