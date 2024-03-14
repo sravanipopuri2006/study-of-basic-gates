@@ -76,9 +76,14 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **RTL realization Output:** 
+![WhatsApp Image 2024-03-14 at 09 31 08_bb098fda](https://github.com/sravanipopuri2006/study-of-basic-gates/assets/139778301/9dae5866-1781-41a8-940c-f16739f8a897)
 
-**RTL**
+
+**OUTPUT:**
+![WhatsApp Image 2024-03-14 at 09 27 49_761d6ce7](https://github.com/sravanipopuri2006/study-of-basic-gates/assets/139778301/3236511c-d3a2-4358-8f96-fd9e404caf29)
+
 
 **Result:**
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
